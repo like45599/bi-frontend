@@ -1,6 +1,6 @@
-# 鱼智能 BI
+# AIGC数据分析助理
 
-This project is initialized with [鱼智能 BI](https://pro.ant.design). Follow is the quick guide for how to use.
+
 
 ## Environment Prepare
 
@@ -18,7 +18,7 @@ yarn
 
 ## Provided Scripts
 
-鱼智能 BI provides some useful script to help you quick start and build with web project, code style check and test.
+AIGC数据分析助理 provides some useful script to help you quick start and build with web project, code style check and test.
 
 Scripts provided in `package.json`. It's safe to modify or add additional script:
 
